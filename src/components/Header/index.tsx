@@ -30,4 +30,3 @@ const Header = (): JSX.Element => {
 };
 
 export default Header;
-should be able to render the amount of products added to cart
